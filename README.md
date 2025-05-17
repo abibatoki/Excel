@@ -38,3 +38,5 @@ Data source: Kaggle
 
 Guided by: Alex the analyst
 
+Tool: Microsoft Excel
+
